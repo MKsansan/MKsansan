@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+Here's MKsansan, a senior high student from Guangzhou, China. and you can call me MK or sansan 	(⁄ ⁄•⁄ω⁄•⁄ ⁄)
+
+My hobbies are coding, language learning and Mathematics. I am also a LGBTQ+ 🏳️‍⚧️🏳️‍🌈 advocator. 
+
+Currently studying:
+
+Coding language: Python;
+Language: English, Japanese.
+
+Things I hope to study in the future:
+
+C++, Tauri.
+
 <!--
 **MKsansan/MKsansan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
